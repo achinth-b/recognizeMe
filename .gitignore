@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 #Directories
-known_people
+known_people/
